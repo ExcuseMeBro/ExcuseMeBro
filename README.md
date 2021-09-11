@@ -93,7 +93,6 @@ Here are some ideas to get you started:
    <a href="https://github.com/Arash4567">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arash4567&show_icons=true&theme=tokionight&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arash4567&show_icons=true&theme=tokionight&layout=compact"/>
-     <a href="https://33i8k.csb.app"><img src="https://i.ibb.co/JjDq4FJ/Screencast-2021-09-08-15-25-33-1.gif" alt="me" border="0"></a>
   </a>
 </p>
 </h3>
