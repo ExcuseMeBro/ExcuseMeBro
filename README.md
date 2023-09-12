@@ -76,8 +76,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Scala
-- 🌱 I’m currently learning Scala
+- 🔭 I’m currently working on Frontend
+- 🌱 I’m currently learning new technology
 
 <h3>
   <summary>
