@@ -63,14 +63,13 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ExcuseMeBro">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ExcuseMeBro's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ExcuseMeBro&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ExcuseMeBro's streak" src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=ExcuseMeBro"/>
   </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
 **ExcuseMeBro/ExcuseMeBro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
