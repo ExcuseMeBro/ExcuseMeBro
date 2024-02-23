@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <a href="https://app.daily.dev/ogabekdev"><img src="https://api.daily.dev/devcards/741c2b7e69f443be971da08c7df0b79a.png?r=wto" width="400" alt="Og'abek's Dev Card"/></a>
+  <a href="https://app.daily.dev/ogabekdev"><img src="https://api.daily.dev/devcards/v2/Iu5ny0IYJnCw3o5YsV3xF.png?r=sa2&type=wide" width="652" alt="Og'abek's Dev Card"/></a>
 </p>
 **ExcuseMeBro/ExcuseMeBro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
