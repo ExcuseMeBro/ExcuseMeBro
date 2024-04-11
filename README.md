@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Og'abek!](https://t.me/fullstackmaster007) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ExcuseMeBro.ExcuseMeBro) ![Profile views](https://gpvc.arturio.dev/ExcuseMeBro?v=3)
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Og'abek!](https://t.me/fullstackmaster007) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ExcuseMeBro.ExcuseMeBro)
 <p align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br>
 </p>
