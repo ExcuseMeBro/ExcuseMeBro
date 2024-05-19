@@ -8,7 +8,7 @@
         <samp>
                 「 From Uzbekistan, Khorezm 」
                 <br>
-                「 My amazing portfolio here: <a href="https://brodev.uz">brodev.uz</a> 」
+                「 My amazing portfolio here: <a href="https://brodev.uz" target="_blank">brodev.uz</a> 」
                 <br>
                 <br>
         </samp>
