@@ -8,7 +8,7 @@
         <samp>
                 「 From Uzbekistan, Khorezm 」
                 <br>
-                「 Student, Computer Science & Engineering 」
+                「 My amazing portfolio here: <a href="https://brodev.uz">brodev.uz</a> 」
                 <br>
                 <br>
         </samp>
