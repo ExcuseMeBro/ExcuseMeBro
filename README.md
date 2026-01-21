@@ -73,8 +73,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Frontend
-- 🌱 I’m currently learning new technology
+- 🔭 I’m currently working on Full Stack Development (Web, Backend & Mobile)
+- 🌱 I’m currently learning new technology & tools
 
 <h3>
   <summary>
